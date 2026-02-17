@@ -7,3 +7,6 @@ a new content is added now to test the update in README>md file, commit - 2
 
 // this is form the branch 1
 // little update form branch1
+
+
+// updating the same 12 th line from main branch 

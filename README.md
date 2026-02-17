@@ -7,3 +7,7 @@ a new content is added now to test the update in README>md file, commit - 2
 
 // this is form the branch 1
 // little update form branch1
+
+
+// i have updated the 12 th line from branch2
+// updating branch2 to github
